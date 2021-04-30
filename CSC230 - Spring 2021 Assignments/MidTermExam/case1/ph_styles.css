@@ -43,10 +43,10 @@ body {
    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 }
 
-
-
-
-
+body > p {
+   font-size: 1.1em;
+   text-align: center;
+}
 
 header {
    background-color: black;
