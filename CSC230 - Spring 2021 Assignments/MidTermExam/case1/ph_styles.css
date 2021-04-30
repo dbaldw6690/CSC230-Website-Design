@@ -18,6 +18,7 @@
         url(DobkinPlain.ttf) format('ttf');
 }
 
+
 /*
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 2
@@ -33,7 +34,9 @@
 
 
 /* Structural Styles */
-
+html {
+   background-color: hsl(91, 8%, 56%);
+}
 
 
 
