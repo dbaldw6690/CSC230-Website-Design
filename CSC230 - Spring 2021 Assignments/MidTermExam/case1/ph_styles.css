@@ -133,3 +133,9 @@ dl dt {
    font-weight: bold;
    color: hsla(0, 0%, 0%, 0.4);
 }
+
+dl dd {
+   font-size: 1.3em;
+   margin-left: 0;
+   margin-bottom: 10px;
+}
