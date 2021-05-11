@@ -35,9 +35,15 @@ header, ul, nav, a {
 
 /* Row Styles */
 
+.row {
+   clear: both;
+}
 
-
-
+.row::after {
+   clear: both;
+   content: "";
+   display: table;
+}
 
 /* Page Header Styles */
 
