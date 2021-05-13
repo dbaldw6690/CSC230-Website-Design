@@ -78,4 +78,11 @@ div#container {
    padding-bottom: 8px;
 }
 
+div.cell > a {
+   display: block;
+   width: 100%;
+   padding-left: 8px;
+   padding-top: 8px;
+}
+
 /* Footer Styles */
