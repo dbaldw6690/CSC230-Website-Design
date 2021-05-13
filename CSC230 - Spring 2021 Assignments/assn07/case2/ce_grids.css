@@ -15,7 +15,10 @@
 
 /* Grid Rows Styles */
 
-
+div.row {
+   width: 100%;
+   clear: both;
+}
 
 
 /* Grid Columns Styles */
