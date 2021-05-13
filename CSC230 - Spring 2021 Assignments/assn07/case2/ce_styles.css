@@ -19,6 +19,7 @@ html {
 }
 
 body {
+   position: relative;
    background-color: white;
    font-family: Verdana, Geneva, Arial, sans-serif;
    margin-top: 20px;
@@ -33,6 +34,10 @@ body {
 img {
    display: block;
    width: 100%;
+}
+
+nav> ul > li > a {
+   text-decoration: none;
 }
 
 /* Body Header Styles */
