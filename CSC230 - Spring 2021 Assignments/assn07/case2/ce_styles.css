@@ -30,6 +30,11 @@ body {
    max-width: 960px;
 }
 
+img {
+   display: block;
+   width: 100%;
+}
+
 /* Body Header Styles */
 
 
