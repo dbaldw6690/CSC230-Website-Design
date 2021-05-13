@@ -57,6 +57,20 @@ nav > ul > li {
    padding-right: 0px;
 }
 
+header > nav > ul > li > a:link {
+   font-size: 0.9em;
+   color: rgb(51, 51, 51);
+}
+
+header > nav > ul > li > a:visited {
+   font-size: 0.9em;
+   color: rgb(51, 51, 51);
+}
+
+header > nav > ul > li > a:hover, header > nav > ul > li > a:active {
+   color: rgb(255, 211, 211);
+}
+
 /* DIV Container Styles */
 
 
