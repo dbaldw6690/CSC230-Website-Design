@@ -42,7 +42,10 @@ nav> ul > li > a {
 
 /* Body Header Styles */
 
-
+header {
+   background-color: rgb(191, 68, 70);
+   height: 40px;
+}
 
 /* DIV Container Styles */
 
