@@ -73,6 +73,9 @@ header > nav > ul > li > a:hover, header > nav > ul > li > a:active {
 
 /* DIV Container Styles */
 
-
+div#container {
+   padding-right: 8px;
+   padding-bottom: 8px;
+}
 
 /* Footer Styles */
