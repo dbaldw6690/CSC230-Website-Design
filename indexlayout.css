@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+/*
+    Layout for index.html
+    Author: Drake Baldwin
+    Date: 05/23/2021
+
+    Filename: indexlayout.css
+*/
+
+/* Window and Body Styles */
+
+html {
+    background-color: #1e90ff;
+}
