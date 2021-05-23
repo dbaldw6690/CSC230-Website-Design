@@ -13,3 +13,8 @@
 html {
     background-color: #1e90ff;
 }
+
+body {
+    max-width: 500px;
+    margin:auto;
+}
