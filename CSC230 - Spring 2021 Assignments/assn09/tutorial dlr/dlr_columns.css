@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 6
+   Tutorial Case
+
+   Columns Style Sheet
+   Author: Drake Baldwin
+   Date:   05/27/2021
+
+   Filename:         dlr_columns.css
+
+*/
+
+
+
+/* Column Styles */
+
+@media only screen and (min-width: 641px) {
+   article {
+      -moz-column-count: 2;
+      -webkit-column-count: 2;
+      column-count: 2;
+   }
+}
