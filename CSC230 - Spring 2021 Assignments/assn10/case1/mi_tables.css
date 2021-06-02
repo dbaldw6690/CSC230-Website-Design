@@ -40,7 +40,9 @@ table td {
 
 /* Column Styles */
 
-
+col#firstCol {
+   width: 24%;
+}
 
 /* Table Header Styles */
 
