@@ -1,0 +1,117 @@
+@charset "utf-8";
+
+/*
+    Layout for index.html
+    Author: Drake Baldwin
+    Date: 05/23/2021
+
+    Filename: indexlayout.css
+*/
+
+/* Body Styles */
+
+body {
+    font-family: Verdana, Tahoma, Helvetica, sans-serif;
+    font: black;
+    font-size: 16px;
+    width: 85%;
+    margin: auto;
+    background-color: gray;
+}
+
+p {
+    margin: 15px;
+    padding: 15px;
+}
+
+/* Body Header Styles */
+
+body > header h1 {
+    font-size: 36px;
+    margin-top: 35px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 0;
+    padding-right: 0;
+    background-color: cyan;
+}
+ 
+body > header h3 {
+    font-size: 24px;
+    margin: 0;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-top: 0;
+    padding-right: 0;
+    background-color: cyan;
+}
+
+body > nav {
+    float: left;
+    background-color: deepskyblue;
+    font: black;
+    text-align: center;
+    vertical-align: top;
+    width: 25%;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Header Styles */
+
+h1 {
+    font: Arial;
+    font-size: 22px;
+    text-align: left;
+    letter-spacing: 2px;
+    margin: 0px;
+    padding: 15px 0px 0px 15px;
+    background-color: darkblue;
+}
+
+h3 {
+    font: Arial;
+    font-size: 16px;
+    text-align: left;
+    background-color: darkorchid;
+}
+
+/* Navigation Styles */
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: pink;
+}
+
+/* Table Styles */
+
+table {
+    border: none;
+    width: 90%;
+    margin-left: 30px;
+    background-color: lightgreen;
+    width: 75%;
+    padding: 15px 15px 15px 15px;
+}
+
+td, th {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+thead {
+    background-color: limegreen;
+}
+
+tbody {
+    text-align: center;
+}
+
