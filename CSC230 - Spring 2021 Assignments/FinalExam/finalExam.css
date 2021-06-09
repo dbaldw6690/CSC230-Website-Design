@@ -37,6 +37,7 @@ body > header h1 {
     padding-bottom: 0;
     padding-right: 0;
     background-color: cyan;
+    text-align: center;
 }
  
 body > header h3 {
@@ -47,6 +48,7 @@ body > header h3 {
     padding-top: 0;
     padding-right: 0;
     background-color: cyan;
+    text-align: center;
 }
 
 body > nav {
@@ -109,9 +111,15 @@ td, th {
 
 thead {
     background-color: limegreen;
+    text-align: center;
 }
 
 tbody {
     text-align: center;
 }
 
+/* Footer Styles */
+
+footer {
+    background-color: magenta;
+}
